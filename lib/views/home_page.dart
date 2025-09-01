@@ -19,6 +19,7 @@ class HomePage extends StatelessWidget {
         actions: [
           IconButton(
               icon: const Icon(Icons.search),
+              iconSize: 28,
               onPressed: () {
                 Navigator.push(
                     context,
@@ -27,6 +28,7 @@ class HomePage extends StatelessWidget {
               }),
           IconButton(
               icon: const Icon(Icons.bookmark),
+              iconSize: 28,
               onPressed: () {
                 Navigator.push(
                     context,
