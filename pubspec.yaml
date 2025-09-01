@@ -30,3 +30,7 @@ flutter:
   uses-material-design: true
 
   assets:
+   - assets/screenshots/home_page.png
+   - assets/screenshots/movie_overview_sharing_page.png
+   - assets/screenshots/bookmark_page.png
+   - assets/screenshots/search_page.png

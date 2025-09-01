@@ -73,7 +73,7 @@ class MovieCard extends StatelessWidget {
               ],
             ),
 
-            // Movie title below
+            // Movie title 
             Padding(
               padding: const EdgeInsets.all(8.0),
               child: Text(
