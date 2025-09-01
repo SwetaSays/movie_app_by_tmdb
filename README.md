@@ -15,8 +15,8 @@ A Flutter app built with the **TMDB API** that lets you explore trending and now
 
 ## Output
 
-(assets/screenshots/home_page.png) 
-(assets/screenshots/movie_overview_sharing_page.png) 
-(assets/screenshots/bookmark_page.png)
-(assets/screenshots/search_page.png) 
+[Home](assets/screenshots/home_page.png) 
+[Details](assets/screenshots/movie_overview_sharing_page.png) 
+[Bookmarks](assets/screenshots/bookmark_page.png)
+[Search](assets/screenshots/search_page.png) 
 
