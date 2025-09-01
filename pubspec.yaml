@@ -25,3 +25,8 @@ dev_dependencies:
   retrofit_generator: ^10.0.2
   json_serializable: ^6.10.0
   analyzer: ^8.1.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
